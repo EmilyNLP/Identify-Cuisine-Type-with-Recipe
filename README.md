@@ -230,7 +230,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](images/output_9_0.png)
     
 
 
@@ -245,7 +245,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](images/output_11_0.png)
     
 
 
@@ -273,13 +273,13 @@ cloud_words("italian")
 
 
     
-![png](output_13_0.png)
+![png](images/output_13_0.png)
     
 
 
 
     
-![png](output_13_1.png)
+![png](images/output_13_1.png)
     
 
 
@@ -372,7 +372,7 @@ cv_baseline.groupby("model_name").accuracy.mean()
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
